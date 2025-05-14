@@ -59,4 +59,3 @@ For access requests, licensing, or showcasing the project:
 For technical collaboration, licensing inquiries, or demo access, please [reach out](mailto:pradheep.shankar@gmail.com).
 
 > Note: The full source code is private.
-""")
