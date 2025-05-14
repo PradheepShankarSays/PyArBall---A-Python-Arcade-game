@@ -22,14 +22,28 @@
 <p align="center">
   <img src="cover.png" alt="Game_UI" width="600"/>
 </p>
-
-
-
----
+<p align="center">
+  <img src="Screenshot 2025-05-13 205516.png" alt="Gameplay" width="600"/>
+</p>
+<p align="center">
+  <img src="Screenshot 2025-05-13 205528.png" alt="Gameplay" width="600"/>
+</p>
+<p align="center">
+  <img src="Screenshot 2025-05-13 205544.png" alt="Gameplay" width="600"/>
+</p>
+<p align="center">
+  <img src="Screenshot 2025-05-13 205556.png" alt="Gameplay" width="600"/>
+</p>
+<p align="center">
+  <img src="Screenshot 2025-05-13 205619.png" alt="Gameplay" width="600"/>
+</p>
+<p align="center">
+  <img src="Screenshot 2025-05-13 205636.png" alt="Gameplay" width="600"/>
+</p>
 
 ## 📄 Project Info
 
-- Built with: Python 3.10, Pygame
+- Built with: Python, Pygame, Pygbag, Asyncio
 - Runtime: Desktop (macOS, Windows, Linux)
 - Controls: Keyboard + Mouse
 - Audio/Visuals: Asset-ready for expansion
