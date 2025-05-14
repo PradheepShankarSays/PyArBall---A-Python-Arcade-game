@@ -19,6 +19,12 @@
 
 ![Game Logo](PyArBall_logo.png)
 
+<p align="center">
+  <img src="cover.png" alt="Game_UI" width="600"/>
+</p>
+
+
+
 ---
 
 ## 📄 Project Info
